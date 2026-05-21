@@ -14,7 +14,7 @@ export default function Home() {
         
         <div className="pt-6">
           <button className="px-6 py-3 bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-bold rounded-xl transition-all shadow-[0_0_20px_rgba(16,185,129,0.3)] hover:shadow-[0_0_25px_rgba(16,185,129,0.6)] hover:-translate-y-1">
-            Siap untuk AeroGuard!
+            Ini modifikasinya hasil gemini btw!
           </button>
         </div>
         
